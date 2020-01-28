@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+
+bin/
+pkg/
+
+src/dotNET/bin
+src/dotNET/obj
