@@ -1,8 +1,9 @@
 ## DEMO of golang shared-c lib
 
 ### Dependency
+- golang >= 1.10 (which support generate dll in windows)
 - gcc/g++
-- dotNET
+- dotNET >= 3.0
 
 ### Quick start
 ```shell script
